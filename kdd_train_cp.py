@@ -2,7 +2,7 @@
 """
 Created on Wed Apr  3 10:55:44 2019
 
-@author: Sohail Khan
+@author: Shoaib Hayat
 """
 
 import h5py    
